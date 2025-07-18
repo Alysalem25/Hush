@@ -12,7 +12,9 @@ const navItems = [
   { name: 'Contact', href: '#contact' },
 ];
 
-export default function Navigation() {
+export default function git add .
+git commit -m "Fix: correct Navigation import"
+git push() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
