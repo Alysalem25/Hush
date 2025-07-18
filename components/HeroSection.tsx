@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { ArrowDown } from 'lucide-react';
-import Navigation from './Navigation';
+import Navigation from './navigation';
 
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
