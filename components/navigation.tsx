@@ -11,10 +11,7 @@ const navItems = [
   { name: 'Branches', href: '#branches' },
   { name: 'Contact', href: '#contact' },
 ];
-
-export default function git add .
-git commit -m "Fix: correct Navigation import"
-git push() {
+export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
